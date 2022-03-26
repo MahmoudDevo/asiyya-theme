@@ -1,0 +1,22 @@
+{
+	"projectName": "asiyya-theme",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "asiyya-theme CSS",
+		"file": "asiyya-theme.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "asiyya-theme JS",
+		"file": "asiyya-theme.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "js/"
+		}]
+	}],
+	"resources" : []
+}
