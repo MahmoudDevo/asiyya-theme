@@ -45,16 +45,16 @@
 /* Theme: Black&White */
 body {
 	--ai-primary: #282828;
-	--ai-primary-light: #d41616;
-	--ai-primary-alt: #e61414;
-	--ai-bg: #db1010;
+	--ai-primary-light: #CCCCCC;
+	--ai-primary-alt: #FFFFFF;
+	--ai-bg: #FFFFFF;
 	--ai-bg-light: #F6F6F6;
-	--ai-bg-alt: #e91717;
-	--ai-secondary: rgb(228, 26, 26);
-	--ai-light: #e91515;
-	--ai-danger: #d4421e;
-	--ai-warning: #d8971f;
-	--ai-success: #e47711;
+	--ai-bg-alt: #FFFFFF;
+	--ai-secondary: #555;
+	--ai-light: #CCCCCC;
+	--ai-danger: #FF3300;
+	--ai-warning: #FFA500;
+	--ai-success: #006000;
 }
 
 body{
