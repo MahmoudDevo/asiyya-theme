@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-DEVO-asiyya
+DEVO-asiyya 2022
 <html class="no-js" lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="{{ in_array(app()->getLocale(), ['ar', 'az', 'dv', 'fa', 'he', 'ku', 'ur']) ? 'rtl' : 'ltr' }}">
 	<head>
 		<meta charset="utf-8">
